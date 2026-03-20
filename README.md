@@ -11,7 +11,7 @@ Image classification is a fundamental problem in computer vision, where the goal
 In this experiment, the task is to build a Convolutional Deep Neural Network (CNN) to classify images from the FashionMNIST dataset into their respective categories. The trained model will then be tested on new/unseen images to verify its effectiveness.
 ## Neural Network Model
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b6dfa154-2064-4760-8b8c-8df202567d42" />
+<img width="962" height="468" alt="image" src="https://github.com/user-attachments/assets/45e11130-2382-413c-9b06-a7ace7d97a6e" />
 
 ## DESIGN STEPS
 
@@ -98,22 +98,22 @@ def train_model(model, train_loader, num_epochs=3):
 ## OUTPUT
 ### Training Loss per Epoch
 
-<img width="553" height="270" alt="image" src="https://github.com/user-attachments/assets/7ce7e65c-cd37-428d-86b9-a1d45b4fa84d" />
+<img width="331" height="275" alt="image" src="https://github.com/user-attachments/assets/d7f8bed7-fdc8-434d-972e-2950be07d174" />
 
 ### Confusion Matrix
 
-<img width="658" height="547" alt="image" src="https://github.com/user-attachments/assets/918824a7-763f-46f5-ab54-23428e9e9e5e" />
+<img width="903" height="784" alt="image" src="https://github.com/user-attachments/assets/08347a13-e927-41a3-ba6e-b3617dde6d37" />
 
 
 ### Classification Report
 
-<img width="719" height="483" alt="image" src="https://github.com/user-attachments/assets/05203c7a-2a02-43b4-aa39-047e1ccd85d6" />
+<img width="616" height="440" alt="image" src="https://github.com/user-attachments/assets/27b598cb-e38a-4ee5-9d2a-240e82c59348" />
 
 
 
 ### New Sample Data Prediction
 
-<img width="1241" height="518" alt="image" src="https://github.com/user-attachments/assets/95d831cb-161f-4eea-a53f-280bdfe93788" />
+<img width="583" height="583" alt="image" src="https://github.com/user-attachments/assets/a9f40db0-9fd8-4107-8a44-34436bb5416f" />
 
 
 ## RESULT
